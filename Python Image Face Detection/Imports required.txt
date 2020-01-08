@@ -1,0 +1,7 @@
+import ==> (1)face_recognition 
+            (2)os
+            (3) cv2 
+            (4)
+            face_recognition 
+            (5)numpy 
+            (6)sleep
